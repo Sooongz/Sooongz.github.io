@@ -209,7 +209,7 @@ header.scrolled #nav-toggle {
 .m-header .top-image {
   display: block;
   width: 100%;
-  padding-bottom: 850px;
+  height: 100vh;
   background: center center/cover no-repeat;
 }
 .m-header #wave-canvas {
