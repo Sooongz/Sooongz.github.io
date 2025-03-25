@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>bjyienmulan.com/posts/lumbar_muscle_strain/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>bjyienmulan.com/posts/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>bjyienmulan.com/tags/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>bjyienmulan.com/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>bjyienmulan.com/tags/%E8%84%8A%E6%9F%B1/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>bjyienmulan.com/posts/spine_physiological_curvature/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>bjyienmulan.com/tags/%E7%AB%8B%E8%A1%A1%E8%84%8A%E6%9F%B1/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>bjyienmulan.com/categories/</loc>
-  </url><url>
-    <loc>bjyienmulan.com/categories/syntax/</loc>
-  </url><url>
-    <loc>bjyienmulan.com/categories/themes/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>bjyienmulan.com/zh/sitemap.xml</loc>
+    
+      <lastmod>2025-03-25T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
