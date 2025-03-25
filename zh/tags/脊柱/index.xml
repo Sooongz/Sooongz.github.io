@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>脊柱 on 北京依恩木兰公益基金会</title>
+    <link>http://localhost:1313/hugo-PaperMod/zh/tags/%E8%84%8A%E6%9F%B1/</link>
+    <description>Recent content in 脊柱 on 北京依恩木兰公益基金会</description>
+    <image>
+      <title>北京依恩木兰公益基金会</title>
+      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh-cn</language>
+    <copyright>北京依恩木兰公益基金会</copyright>
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-PaperMod/zh/tags/%E8%84%8A%E6%9F%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>脊柱的生理曲度</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh/posts/spine/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh/posts/spine/</guid>
+      <description>脊柱的生理曲度是指在矢状面上呈现的自然弯曲，包括颈椎前凸、胸椎后凸、腰椎前凸和骶椎后凸。这种曲度从侧面看呈“S”形，是人体正常的结构特征。</description>
+    </item>
+  </channel>
+</rss>
