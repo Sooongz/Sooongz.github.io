@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>脊柱 on 北京依恩木兰公益基金会</title>
-    <link>//localhost:1313/zh/tags/%E8%84%8A%E6%9F%B1/</link>
+    <link>bjyienmulan.com/zh/tags/%E8%84%8A%E6%9F%B1/</link>
     <description>Recent content in 脊柱 on 北京依恩木兰公益基金会</description>
     <image>
       <title>北京依恩木兰公益基金会</title>
-      <url>//localhost:1313/images/cover.jpg</url>
-      <link>//localhost:1313/images/cover.jpg</link>
+      <url>bjyienmulan.com/images/cover.jpg</url>
+      <link>bjyienmulan.com/images/cover.jpg</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>zh-cn</language>
     <copyright>北京依恩木兰公益基金会</copyright>
     <lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/zh/tags/%E8%84%8A%E6%9F%B1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="bjyienmulan.com/zh/tags/%E8%84%8A%E6%9F%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> 腰肌劳损 </title>
-      <link>//localhost:1313/zh/posts/lumbar_muscle_strain/</link>
+      <link>bjyienmulan.com/zh/posts/lumbar_muscle_strain/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/posts/lumbar_muscle_strain/</guid>
+      <guid>bjyienmulan.com/zh/posts/lumbar_muscle_strain/</guid>
       <description>&lt;p&gt;腰肌劳损是指因腰部肌肉、筋膜或韧带的长期过度使用、劳损或慢性损伤引起的以腰部酸痛或僵硬为主的慢性疾病。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;原因&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -71,9 +71,9 @@
     </item>
     <item>
       <title>脊柱的生理曲度</title>
-      <link>//localhost:1313/zh/posts/spine_physiological_curvature/</link>
+      <link>bjyienmulan.com/zh/posts/spine_physiological_curvature/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/posts/spine_physiological_curvature/</guid>
+      <guid>bjyienmulan.com/zh/posts/spine_physiological_curvature/</guid>
       <description>脊柱的生理曲度是指在矢状面上呈现的自然弯曲，包括颈椎前凸、胸椎后凸、腰椎前凸和骶椎后凸。这种曲度从侧面看呈“S”形，是人体正常的结构特征。</description>
     </item>
   </channel>
