@@ -10,7 +10,7 @@
 <meta name="description" content="">
 <meta name="author" content="Sooongz">
 <link rel="canonical" href="/tags/%E5%85%9A%E5%BB%BA%E6%B4%BB%E5%8A%A8/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.bf034f0712d33f06b8dcc2822f845039f30d4ad8f56c6e112264505e4aa09a4d.css" integrity="sha256-vwNPBxLTPwa43MKCL4RQOfMNStj1bG4RImRQXkqgmk0=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9d48deee37bb145a766053ba802515d77661bca987ae5d209b1aaa9aca206219.css" integrity="sha256-nUje7je7FFp2YFO6gCUV13ZhvKmHrl0gmxqqmsogYhk=" rel="preload stylesheet" as="style">
 <link rel="icon" href="/assets/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
@@ -85,29 +85,55 @@
     <nav class="nav">
         <div class="logo">
             <a href="/" accesskey="h" title="木兰公益 (Alt + H)">木兰公益</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
+                    <div class="logo-switches">
+                        <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                            <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                            </svg>
+                            <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="5"></circle>
+                                <line x1="12" y1="1" x2="12" y2="3"></line>
+                                <line x1="12" y1="21" x2="12" y2="23"></line>
+                                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                <line x1="1" y1="12" x2="3" y2="12"></line>
+                                <line x1="21" y1="12" x2="23" y2="12"></line>
+                                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                            </svg>
+                        </button>
+                    </div>
         </div>
+
+        
+
+
+        <button id="menu-trigger" aria-haspopup="menu" aria-label="Menu Button">
+
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                class="feather feather-menu">
+
+
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+
+
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+
+
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+
+
+            </svg>
+
+
+        </button>
+        <ul class="menu hidden"></ul>
         <ul id="menu">
             <li>
                 <a href="/" title="首页">
@@ -147,13 +173,31 @@
             </li>
         </ul>
     </nav>
-</header>
-<main class="main"> 
+</header><main class="main"> 
 <header class="page-header">
   <h1>
     党建活动
   </h1>
 </header>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="/images/2025_shen_ji_gong_zuo_pei_xun_hui_cover.jpeg" alt="">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">北京依恩木兰公益基金会参加学习北京市扶贫济困领域基金会第二联合党委举办2025年度市级社会组织抽查审计工作培训会
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>2025年3月26日下午，北京市扶贫济困领域基金会第二联合党委（以下简称“第二联合党委”）在所属北京吴建民公益基金会举办北京市2025年度市级社会组织抽查审计工作培训会，培训由北京中和公益基金会合规专家、第二联合党委专职党务工作者、社会工作师夏彧歆主讲。第二联合党委、其他联合党委及党建工作机构列入2025年度基金会抽查审计名单的基金会负责人、工作人员，以及想了解抽查审计程序和要求的基金会负责人共计54人参会。北京依恩木兰公益基金会高度重视此次学习的机会，积极学习政策要求，深入理解抽查审计流程，进一步提升基金会的治理水平和合规管理能力。
+按照《北京市民政局关于开展2025年度市级社会组织抽查审计工作的通知》，夏彧歆逐条解读了内部治理、财务管理、业务活动、诚信建设等诸方面的抽查审计范围、依据、标准、方式、要求和内容，并结合多年经验向与会人员分享了抽查审计的工作准备、资料整理、现场应对等方面的经验，为各被抽查审计单位更好地筹备抽查审计工作提供了较为丰富的指导与交流，建议各基金会应高度重视抽查审计工作，以抽查审计为契机，奠定打好基金会依法规范运营、持续健康发展的基础。
+在培训过程中，北京依恩木兰公益基金会的参会代表认真聆听北京中和公益基金会合规专家，第二联合党委专职党务工作者夏彧歆的讲解。夏彧歆还结合基金会（慈善组织）2024年度工作报告要求，提示各参会单位应依法依规做好2024年度报告工作，及时履行信息公开义务。
+开展社会组织抽查审计是规范和引导社会组织健康有序发展的重要抓手，是各级社会组织登记管理机关根据民政部《社会组织抽查暂行办法》等相关规定而实施的日常监管工作，其主要目的是规范管理、提高效能、加强监管。社会组织抽查审计由民政部门委托第三方审计机构开展，抽查审计结果作为年度检查、等级评估、信用监管的参考依据。
+通过此次学习，北京依恩木兰公益基金会更加明确了未来工作的努力方向：一是进一步完善基金会的治理结构，确保内部管理合规高效；二是强化财务管理，提高资金使用的透明度和规范性；三是严格按照《社会组织抽查暂行办法》的要求，做好资料整理和工作对接，以积极、规范、严谨的态度迎接审计工作。同时，基金会也将以此次培训为契机，推动自身在信息公开、诚信建设、项目管理等方面的优化，确保在助学、助医、扶贫救助等公益事业中发挥更大的社会价值。
+</p>
+  </div>
+  <a class="entry-link" aria-label="post link to 北京依恩木兰公益基金会参加学习北京市扶贫济困领域基金会第二联合党委举办2025年度市级社会组织抽查审计工作培训会" href="/posts/%E5%8C%97%E4%BA%AC%E5%B8%82%E6%89%B6%E8%B4%AB%E6%B5%8E%E5%9B%B0%E9%A2%86%E5%9F%9F%E5%9F%BA%E9%87%91%E4%BC%9A%E7%AC%AC%E4%BA%8C%E8%81%94%E5%90%88%E5%85%9A%E5%A7%94%E4%B8%BE%E5%8A%9E2025%E5%B9%B4%E5%BA%A6%E5%B8%82%E7%BA%A7%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E6%8A%BD%E6%9F%A5%E5%AE%A1%E8%AE%A1%E5%B7%A5%E4%BD%9C%E5%9F%B9%E8%AE%AD%E4%BC%9A/"></a>
+</article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
